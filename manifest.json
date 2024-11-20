@@ -1,6 +1,6 @@
 {
-    "name": "regal_design",
-    "short_name": "regal_design",
+    "name": "authless_bugle",
+    "short_name": "authless_bugle",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
